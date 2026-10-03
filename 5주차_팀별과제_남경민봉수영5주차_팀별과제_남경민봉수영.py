@@ -50,3 +50,9 @@ t1_team = pd.DataFrame([
     row_cat('현재흡연', df.smk == 1),
     row_cat('규칙적 운동', df.exercise == 2),
 ])
+
+
+| 이름 | 역할 | 기술 스택 |
+| --- | --- | --- |
+| 홍길동 | 프론트엔드 | React |
+| 김철수 | 백엔드 | Spring |
