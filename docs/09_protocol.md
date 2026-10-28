@@ -45,6 +45,7 @@
 
 ## 5. 역할 분담
 남경민: `docs/09_protocol.md` 작성 및 변수 정의표 정리, `code/09_data_check.ipynb` 코드 구현 및 가중치/층/집락 확인
+
 봉수영: 대상 선정 흐름도 및 최종 커밋,`docs/09_protocol.md` 작성 및 변수 정의표 정리
 
 ---
